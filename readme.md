@@ -28,6 +28,7 @@
 - [grunt-ava](https://github.com/sindresorhus/grunt-ava) - Run tests with grunt
 - [fly-ava](https://github.com/pine613/fly-ava) - Run tests with fly
 - [start-ava](https://github.com/start-runner/ava) - Run tests with start
+- [redux-ava](https://github.com/sotojuan/redux-ava) - Test helpers for redux
 
 
 ## Support
