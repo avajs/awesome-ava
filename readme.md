@@ -31,6 +31,9 @@
 - [sigh-ava](https://github.com/unlight/sigh-ava) - Run tests with sigh.
 - [redux-ava](https://github.com/sotojuan/redux-ava) - Test helpers for Redux.
 
+## Workshops/Tutorials
+
+- [React + AVA = :heart:](https://github.com/kentcdodds/react-ava-workshop)
 
 ## Support
 
