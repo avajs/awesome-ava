@@ -33,6 +33,7 @@
 - [redux-ava](https://github.com/sotojuan/redux-ava) - Test helpers for Redux.
 - [redux-test-recorder](https://github.com/conorhastings/redux-test-recorder) - Generate AVA tests for Redux reducers in a React app.
 - [ava-codemods](https://github.com/jamestalmage/ava-codemods) - Codemods for AVA that simplifies upgrading to newer versions.
+- [ava-spec](https://github.com/sheerun/ava-spec) - Drop-in BDD helpers for AVA test runner.
 
 
 ## Tutorials & Workshops
