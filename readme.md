@@ -52,6 +52,7 @@
 ## Miscellaneous
 
 - [Stickers](https://www.stickermule.com/user/1070705604/stickers)
+- [JavaScript Air Podcast episode](http://jsair.io/ava) (with the AVA core team)
 
 
 ## License
