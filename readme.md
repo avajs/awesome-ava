@@ -27,7 +27,7 @@
 - [eslint-plugin-ava](https://github.com/sindresorhus/eslint-plugin-ava) - Lint rules for AVA tests.
 - [gulp-ava](https://github.com/sindresorhus/gulp-ava) - Run tests with gulp.
 - [grunt-ava](https://github.com/sindresorhus/grunt-ava) - Run tests with grunt.
-- [fly-ava](https://github.com/pine613/fly-ava) - Run tests with fly.
+- [fly-ava](https://github.com/pine/fly-ava) - Run tests with fly.
 - [start-ava](https://github.com/start-runner/ava) - Run tests with start.
 - [sigh-ava](https://github.com/unlight/sigh-ava) - Run tests with sigh.
 - [redux-ava](https://github.com/sotojuan/redux-ava) - Test helpers for Redux.
