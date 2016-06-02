@@ -47,6 +47,7 @@
 ## Works with AVA
 
 - [Spectron](https://github.com/electron/spectron#with-ava) - Test Electron apps using AVA and ChromeDriver.
+- [Chūhai](https://github.com/Hypercubed/chuhai) - Run and verify benchmarks using AVA and benchmark.js.
 
 
 ## Tutorials & Workshops
