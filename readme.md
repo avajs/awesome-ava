@@ -53,6 +53,7 @@
 ## Tutorials & Workshops
 
 - [React + AVA = :heart:](https://github.com/kentcdodds/react-ava-workshop)
+- [Testing a React & Redux Codebase](http://silvenon.com/testing-react-and-redux/) - A comprehensive series of tutorials about testing a React and Redux project using AVA.
 
 
 ## Miscellaneous
