@@ -61,6 +61,7 @@
 ## Miscellaneous
 
 - [Stickers](https://www.stickermule.com/user/1070705604/stickers)
+- [babel-plugin-webpack-loaders](https://github.com/istarkov/babel-plugin-webpack-loaders)
 
 
 ## Support
