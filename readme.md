@@ -53,6 +53,7 @@
 
 - [Spectron](https://github.com/electron/spectron#with-ava) - Test Electron apps using AVA and ChromeDriver.
 - [Chūhai](https://github.com/Hypercubed/chuhai) - Run and verify benchmarks using AVA and benchmark.js.
+- [ava-browser-fixture](https://www.npmjs.com/package/ava-browser-fixture) - Run browser-based specs with ava inside browser-env, as suggested in [browser-testing](https://github.com/avajs/ava/blob/master/docs/recipes/browser-testing.md)
 
 
 ## Tutorials & Workshops
