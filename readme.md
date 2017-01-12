@@ -48,6 +48,7 @@
 - [ava-rethinkdb](https://github.com/rrdelaney/ava-rethinkdb) - Test helpers for RethinkDB.
 - [eslint-ava-rule-tester](https://github.com/jfmengels/eslint-ava-rule-tester) - Test [ESLint](https://github.com/eslint/eslint) plugins with AVA.
 - [jscodeshift-ava-tester](https://github.com/jfmengels/jscodeshift-ava-tester) - Test [jscodeshift](https://github.com/facebook/jscodeshift) codemods with AVA.
+- [ava-fixture](https://github.com/unional/ava-fixture) - Run fixture / baseline tests with AVA.
 
 
 ## Works with AVA
