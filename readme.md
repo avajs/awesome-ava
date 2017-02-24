@@ -26,6 +26,7 @@
 ## Videos
 
 - [JavaScript Air episode with the AVA team](http://jsair.io/ava)
+- [AVA Casts](http://avacasts.com) - Short screencasts about AVA.
 
 
 ## Packages
@@ -53,7 +54,12 @@
 
 - [Spectron](https://github.com/electron/spectron#with-ava) - Test Electron apps using AVA and ChromeDriver.
 - [Chūhai](https://github.com/Hypercubed/chuhai) - Run and verify benchmarks using AVA and benchmark.js.
-- [ava-browser-fixture](https://www.npmjs.com/package/ava-browser-fixture) - Run browser-based specs with ava inside browser-env, as suggested in [browser-testing](https://github.com/avajs/ava/blob/master/docs/recipes/browser-testing.md)
+- [Leakage](https://github.com/andywer/leakage#usage-with-ava--tape) - Memory leak testing.
+- [pify](https://github.com/sindresorhus/pify) - Promisify callback-style functions for better testing. [(Example)](https://github.com/sindresorhus/registry-url/blob/eb1f0e01722208366c9199b96235fd043ec162ae/test.js#L6)
+- [execa](https://github.com/sindresorhus/execa) - Test your CLI tools. [(Example)](https://github.com/sindresorhus/active-win-cli/blob/d01813762b304102d1fee147855481e9f38c8517/test.js#L5-L6)
+- [delay](https://github.com/sindresorhus/delay) - Add delays to your tests. [(Example)](https://github.com/sindresorhus/p-queue/blob/a3a5cadefc2b54269f4939bb34e8dc180c3bd800/test.js#L39)
+- [get-stream](https://github.com/sindresorhus/get-stream) - Test the output of streams. [(Example)](https://github.com/sindresorhus/ora/blob/4ceeedd51795bb88a8033229d198e70cd8a2aff7/test.js#L33-L35)
+- [ava-browser-fixture](https://github.com/weltn24/ava-browser-fixture) - A module which adds a Browser Environment to your Ava Test, as suggested in [browser-testing](https://github.com/avajs/ava/blob/master/docs/recipes/browser-testing.md)
 
 
 ## Tutorials & Workshops
