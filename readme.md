@@ -50,6 +50,9 @@
 - [jscodeshift-ava-tester](https://github.com/jfmengels/jscodeshift-ava-tester) - Test [jscodeshift](https://github.com/facebook/jscodeshift) codemods with AVA.
 - [ava-preact-init](https://github.com/avajs/ava-preact-init) - Set up AVA for Preact.
 
+## Workshops/Tutorials
+
+- [React + AVA = :heart:](https://github.com/kentcdodds/react-ava-workshop)
 
 ## Works with AVA
 
