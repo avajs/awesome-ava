@@ -52,6 +52,8 @@
 - [ava-check](https://github.com/leebyron/testcheck-js/tree/master/integrations/ava-check) - Generative property testing with [`TestCheck.js`](https://github.com/leebyron/testcheck-js).
 - [ava-fixture](https://github.com/unional/ava-fixture) - Run fixture/baseline tests with AVA.
 - [ava-playback](https://github.com/dempfi/ava-playback) - Record and playback HTTP requests.
+- [avaron](https://github.com/bokuweb/avaron) - Run tests on real browser(electron) with AVA.
+
 
 
 ## Works with AVA
