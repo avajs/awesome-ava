@@ -51,6 +51,7 @@
 - [ava-preact-init](https://github.com/avajs/ava-preact-init) - Set up AVA for Preact.
 - [ava-fixture](https://github.com/unional/ava-fixture) - Run fixture/baseline tests with AVA.
 - [ava-playback](https://github.com/dempfi/ava-playback) - Record and playback HTTP requests.
+- [bs-ava](https://github.com/godu/bs-ava) - BuckleScript bindings to AVA.
 
 
 ## Works with AVA
