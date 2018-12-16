@@ -52,6 +52,7 @@
 - [ava-fixture](https://github.com/unional/ava-fixture) - Run fixture/baseline tests.
 - [ava-playback](https://github.com/dempfi/ava-playback) - Record and playback HTTP requests.
 - [ava-fast-check](https://github.com/dubzzz/ava-fast-check) - Property based testing.
+- [ava-fixture-docker-db](https://github.com/cdaringe/ava-fixture-docker-db) - Add docker databases to your test contexts.
 
 
 ## Works with AVA
