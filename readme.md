@@ -51,6 +51,7 @@
 - [ava-fixture-docker-db](https://github.com/cdaringe/ava-fixture-docker-db) - Add docker databases to your test contexts.
 - [ava-webcomponents](https://github.com/Wildhoney/ava-webcomponents) - Testing web components via Puppeteer.
 - [ava-tap-json](https://github.com/yovasx2/ava-tap-json) - JSON output with AVA compatibility.
+- [@yeiniel/rest-hal-test-tools](https://github.com/yeiniel/rest-hal-test-tools) - Tests for RESTful APIs using AVA and [SuperTest](https://github.com/visionmedia/supertest).
 
 ## Works with AVA
 
