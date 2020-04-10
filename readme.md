@@ -33,7 +33,6 @@
 - [atom-ava](https://github.com/avajs/atom-ava) - Snippets for Atom.
 - [vscode-ava](https://github.com/samverschueren/vscode-ava) - Snippets for Visual Studio Code.
 - [vim-ava-snippets](https://github.com/ahmedelgabri/vim-ava-snippets) - Snippets for Vim.
-- [ava-spec](https://github.com/sheerun/ava-spec) - Drop-in BDD helpers.
 - [redux-ava](https://github.com/sotojuan/redux-ava) - Test helpers for Redux.
 - [redux-test-recorder](https://github.com/conorhastings/redux-test-recorder) - Generate AVA tests for Redux reducers in a React app.
 - [gulp-ava](https://github.com/avajs/gulp-ava) - Run tests with Gulp.
