@@ -22,7 +22,6 @@
 ## Videos
 
 - [JavaScript Air episode with the AVA team](http://jsair.io/ava)
-- [AVA Casts](http://avacasts.com) - Short screencasts about AVA.
 - [Testing React components with AVA](https://www.youtube.com/watch?v=RxLW6-3dk5A)
 
 ## Packages
