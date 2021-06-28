@@ -1,4 +1,4 @@
-# Awesome AVA [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [<img src="https://github.com/avajs/ava/raw/master/media/header.png" width="280" align="right" alt="AVA">](https://avajs.dev)
+# Awesome AVA [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [<img src="https://github.com/avajs/ava/raw/main/media/header.png" width="280" align="right" alt="AVA">](https://avajs.dev)
 
 > [AVA](https://avajs.dev) is a minimal & futuristic JavaScript test runner
 
@@ -14,7 +14,7 @@
 
 ## Articles
 
-- [Recipes](https://github.com/avajs/ava/tree/master/docs/recipes)
+- [Recipes](https://github.com/avajs/ava/tree/main/docs/recipes)
 - [Testing React Native apps with AVA](https://shift.infinite.red/testing-the-bejeezus-out-of-react-native-apps-with-ava-330f51f8f6c3)
 - [Getting Started with Create React App and AVA](https://semaphoreci.com/community/tutorials/getting-started-with-create-react-app-and-ava)
 - [Effortless unit testing with AVA](https://wecodetheweb.com/2016/04/19/effortless-unit-testing-with-ava/)
